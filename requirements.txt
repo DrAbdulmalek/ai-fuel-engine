@@ -6,7 +6,7 @@ python-dotenv>=1.0.0
 tiktoken>=0.5.0
 
 # Classifier
-sentence-transformers>=2.2.0
+sentence-transformers>=5.6.0
 faiss-cpu>=1.7.4
 qdrant-client>=1.7.0
 
