@@ -1,3 +1,22 @@
+<!-- ARCHIVE BANNER - AUTO-GENERATED -->
+<div align="center">
+
+# ⚠️ This repository has been archived
+
+**AI fuel engine prototype absorbed into omni-medical-suite/backend/ai/**
+
+This project has been consolidated into the unified **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)** monorepo.
+
+All active development, bug fixes, and new features continue there.
+
+</div>
+
+---
+
+> **Archived on: 2026-06-28** | **Active project:** [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/actions/workflow/status/DR-ABDULMALEK/ai-fuel-engine/ci.yml?branch=main&style=flat-square" alt="Build Status" />
   <img src="https://img.shields.io/codecov/c/github/DR-ABDULMALEK/ai-fuel-engine?style=flat-square" alt="Coverage" />
