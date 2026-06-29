@@ -1,19 +1,13 @@
-<!-- ARCHIVE BANNER - AUTO-GENERATED -->
+<!-- STATUS: ARCHIVED -->
 <div align="center">
 
-# ⚠️ This repository has been archived
-
-**AI fuel engine prototype absorbed into omni-medical-suite/backend/ai/**
-
-This project has been consolidated into the unified **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)** monorepo.
-
-All active development, bug fixes, and new features continue there.
+| Status | Type | Absorbed Into |
+|--------|------|---------------|
+| <img src="https://img.shields.io/badge/status-archived-inactive" alt="Archived" /> | Pipeline Component | [omni-medical-suite/backend/ai/](https://github.com/DrAbdulmalek/omni-medical-suite/tree/main/backend/ai) |
 
 </div>
 
----
-
-> **Archived on: 2026-06-28** | **Active project:** [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)
+> **Archived on 2026-06-28** — Code preserved for reference. All development continues in **[omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite)**.
 
 ---
 
@@ -22,7 +16,7 @@ All active development, bug fixes, and new features continue there.
   <img src="https://img.shields.io/codecov/c/github/DR-ABDULMALEK/ai-fuel-engine?style=flat-square" alt="Coverage" />
   <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License" />
   <img src="https://img.shields.io/badge/python-3.9+-green?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/status-Beta-yellow?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/status-archived-inactive?style=flat-square" alt="Status" />
 </p>
 
 <h1 align="center">🧪 AI Fuel Engine</h1>
@@ -132,6 +126,9 @@ Raw PDFs  →  OCR Extraction  →  Text Segmentation  →  Classification
 - **🐳 Docker support** — Fully containerized deployment with Docker Compose
 
 ---
+
+<details>
+<summary>Historical documentation (preserved for reference)</summary>
 
 ## 🚀 Quick Start — البدء السريع
 
@@ -413,6 +410,7 @@ csv_exporter.export(chunks, "datasets/output.csv")
 excel_exporter = ExcelExporter()
 excel_exporter.export(chunks, "datasets/output.xlsx", sheet_name="Medical Data")
 ```
+</details>
 
 ---
 
@@ -544,6 +542,9 @@ logging:
 ```
 
 ---
+
+<details>
+<summary>Historical documentation (preserved for reference)</summary>
 
 ## 🧪 Development — التطوير
 
@@ -711,30 +712,13 @@ docker run -d \
   -e QDRANT_URL=http://host.docker.internal:6333 \
   ai-fuel-engine
 ```
+</details>
 
 ---
 
 ## 🤝 Contributing — المساهمة
 
-### How to Contribute — كيف تساهم
-
-1. **Fork** the repository
-2. **Create** a feature branch: `git checkout -b feature/my-feature`
-3. **Write** code following the project style (Black, flake8)
-4. **Add tests** for new functionality
-5. **Ensure** all tests pass: `pytest tests/ -v`
-6. **Commit** with descriptive messages
-7. **Push** to your fork: `git push origin feature/my-feature`
-8. **Open** a Pull Request with a clear description
-
-### Contribution Guidelines — إرشادات المساهمة
-
-- Follow PEP 8 style (enforced by Black)
-- Write docstrings for all public functions and classes
-- Maintain test coverage above 80%
-- Add type hints for all function signatures
-- Update this README if you add new modules or change behavior
-- Use meaningful commit messages following [Conventional Commits](https://www.conventionalcommits.org/)
+This repository is archived. Please contribute to [omni-medical-suite](https://github.com/DrAbdulmalek/omni-medical-suite) instead.
 
 ---
 
